@@ -1,0 +1,1 @@
+# Library that support Spring Boot 2.7.x and 3.2.x

@@ -1,5 +1,5 @@
 rootProject.name = 'demo'
-include 'server'
+include 'spring-boot-3'
 include 'lib'
-include 'server-2'
+include 'spring-boot-2'
 
